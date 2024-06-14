@@ -1,11 +1,11 @@
 [common]
-bind_port = *****
-dashboard_port = ****
+bind_port = xxxxx
+dashboard_port = xxxx
 dashboard_user = "czz"
-dashboard_pwd = "*******"
+dashboard_pwd = "xxxxxx"
 
 log_file = "./frps.log"
 log_level = "info"
 log_max_days = 3
-token = "********************************"
+token = "xxxxxxxxxxxxxxxxxxxxxxxxxxx"
 heartbeat_timeout = 90
